@@ -21,7 +21,3 @@ permalink: /about/
 ### (주)ATZ Trading
 - 퀀트 트레이딩
 - 투자자산 매매 로직 설계 및 개발
-
-
-# Contact me
-rlatlawkd@gmail.com
