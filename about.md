@@ -4,8 +4,9 @@ title : 주요 분야
 permalink: /about/
 ---
 
-- R, Python을 이용한 Data Analysis&Visualization
+- R, Python을 이용한 Data Analysis & Visualization
 - 계량 투자 방법론을 이용한 Quant Trading
+- 기술 스택 : Node.js / Python / R / SQL
 
 
 # 프로젝트 이력
@@ -20,10 +21,6 @@ permalink: /about/
 ### (주)ATZ Trading
 - 퀀트 트레이딩
 - 투자자산 매매 로직 설계 및 개발
-
-
-# 기술 스택
-- Node.js, Python, R, SQL
 
 
 # Contact me
