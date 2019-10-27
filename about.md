@@ -4,14 +4,14 @@ title : 주요 분야
 permalink: /about/
 ---
 
-- R, Python을 이용한 Data Analysis & Visualization
-- Quant Trading 프로그램 개발
+- 퀀트 트레이딩 프로그램 개발
+- 데이터 분석 & 시각화
 
 
-# 프로젝트 이력
+# 이력
 
 ### 연세대학교 학부 졸
-- 응용통계학과 전공
+- 응용통계학 전공
 
 ### (주)엠로보
 - 주식/금융 기사 작성 서비스 '엠로보 스톡봇' 개발
