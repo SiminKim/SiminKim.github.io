@@ -1,10 +1,11 @@
 ---
 layout: page
-title : 주요 분야
+title : 
 permalink: /about/
 ---
 
-- 퀀트 트레이딩 프로그램 개발
+### 주요 분야
+- 퀀트 트레이딩 시스템 구축
 - 데이터 분석 & 시각화
 
 
